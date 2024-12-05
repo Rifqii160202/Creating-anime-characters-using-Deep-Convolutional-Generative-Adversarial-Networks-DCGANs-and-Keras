@@ -1,16 +1,11 @@
 
-# Sentiment-Analysis-using-Caikit-and-Hugging-Face
-## IBMSkillsNetwork GPXX0PYAEN
----
-### Author : Cognitive Class AI
-### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai
----
+# Creating anime characters using Deep Convolutional Generative Adversarial Networks (DCGANs) and Keras
 ### Info
 ### - Name : Muhammad Rifqi Febrian
 ### - Program : IBM Advance AI @ Infinite Learning
 
 ### Tech Stack
-### - Python
+### - Python & jupyter notebook
 --- 
 ### Documentation
 1. Install the requirements
@@ -23,9 +18,7 @@ pip install os
 ```
 2. Start the runtime
 ```
-python start_runtime.py
+jupyter notebook start_runtime 
 ```
-3. Run the sentiment analysis in another terminal tab
-```
-python client.py
-```
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
