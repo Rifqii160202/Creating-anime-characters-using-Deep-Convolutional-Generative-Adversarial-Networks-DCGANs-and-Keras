@@ -2,7 +2,7 @@
 # Creating anime characters using Deep Convolutional Generative Adversarial Networks (DCGANs) and Keras
 ### Info
 ### - Name : Muhammad Rifqi Febrian
-### - Program : IBM Advance AI @ Infinite Learning
+### - Program : IBM Advance AI 
 
 ### Tech Stack
 ### - Python & jupyter notebook
